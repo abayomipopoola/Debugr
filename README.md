@@ -201,6 +201,12 @@ $ tree
     └── twosum.py
 ```
 
+Run:
+
+```bash
+debugr --context-dir . "debug the twosum: maintain the inefficient solution for now"
+```
+
 output:
 
 ```bash
